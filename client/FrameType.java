@@ -1,0 +1,1 @@
+public enum FrameType {RISPONDI, RISPONDI_ALL, INOLTRA, INVIA}
