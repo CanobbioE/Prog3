@@ -1,1 +1,0 @@
-public enum UpdateType { NAME_SET, NEW_MAIL, READ_MAIL, REFRESH, OFFLINE }
