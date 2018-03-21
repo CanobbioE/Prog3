@@ -1,5 +1,7 @@
 # Programming III
 
+Implementing an email service using [RMI](https://en.wikipedia.org/wiki/Java_remote_method_invocation).
+The client uses the MVC pattern.
 The application uses fasterxml/jackson library to write and read json files. Most implementation choices were mandatory (such as the absence of login).
 
 List of features:  
